@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-mobx-pnp-sample-client-side-solution",
+    "id": "ed8390ba-29f5-4c46-95dc-837735d79917",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "spfx-mobx-pnp-sample.spapp"
+  }
+}

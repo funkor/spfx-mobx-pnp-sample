@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "612d17cc-8489-4da3-8a02-5a30b46a5bd5",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "612d17cc-8489-4da3-8a02-5a30b46a5bd5",
+    "group": { "default": "Under Development" },
+    "title": { "default": "RealWorldish" },
+    "description": { "default": "Demonstrates real usage patterns." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "RealWorldish"
+    }
+  }]
+}
